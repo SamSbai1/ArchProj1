@@ -1,0 +1,9 @@
+Benchmarks	system.cpu.cpi	system.cpu.dcache.overall_miss_rate::total	system.cpu.icache.overall_miss_rate::total	system.l2.overall_miss_rate::total
+speclibmTEST1	3.514376	0.062151	0.000097	0.973317
+speclibmTEST2	3.504548	0.061266	0.000097	0.993145
+speclibmTEST3	3.503865	0.061266	0.000089	0.993177
+speclibmTEST4	2.593703	0.031779	0.000107	0.944507
+speclibmTEST5	2.034113	0.017954	0.000121	0.804870
+speclibmTEST6	1.989308	0.015244	0.000121	0.999592
+speclibmTEST7	2.576600	0.030487	0.000107	0.999827
+speclibmTEST8	2.576597	0.030487	0.000090	0.999923
